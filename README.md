@@ -1,5 +1,6 @@
 # MANAGED TAB CONTROL
 An advanced .Net C# (UserControl) Tab Control 
+Please note that this is the official repository of the program, that means official updates on source and releases will be commited/published here.
 
 ## What is this ?
 Manged Tab Control is an advanced .Net C# UserControl Tab Control that provides these features: 
